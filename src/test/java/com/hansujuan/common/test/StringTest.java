@@ -32,5 +32,6 @@ public class StringTest {
 	public void testHasNext(){
 		boolean b = StringUtil.hasNext("   11");
 		System.out.println(b);
+		System.out.println(111);
 	}
 }
